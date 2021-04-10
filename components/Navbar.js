@@ -20,7 +20,11 @@ const Navbar = () => {
             <StyledLink>Apps</StyledLink>
           </Link>
 
-          <Link href='https://cryptostack.vercel.app/' passHref target='_blank'>
+          <Link
+            href='https://cryptotrackernextjs.vercel.app/'
+            passHref
+            target='_blank'
+          >
             <StyledLink>Coin Tracker</StyledLink>
           </Link>
         </div>
