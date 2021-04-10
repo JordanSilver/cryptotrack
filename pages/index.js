@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Next JS Template</title>
+        <title>Crypto Track || by SilverStack</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <Hero>
